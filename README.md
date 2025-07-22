@@ -62,9 +62,12 @@ To track and analyze public complaints submitted through NYC’s 311 service in 
 ### 🔹 Before Refreshing:
 <img width="1877" height="762" alt="Screenshot 2025-07-22 193712" src="https://github.com/user-attachments/assets/2bf63e79-4012-40d6-a99c-7dee04eb0f5c" />
 
+### 🔹While Refreshing;
+<img width="1834" height="735" alt="Screenshot 2025-07-22 193728" src="https://github.com/user-attachments/assets/34910173-a6fc-4fa0-a8ab-fcdafef16002" />
 
 
 ### 🔹 After Refreshing:
+<img width="1876" height="746" alt="Screenshot 2025-07-22 194314" src="https://github.com/user-attachments/assets/c7a8275a-8cb1-4978-bae1-69f9fdfdb178" />
 
 
 📌 Note: Dashboard reflects real-time status once **Refresh** is clicked in Power BI Desktop or is set up on a schedule in the **Power BI Service**.
