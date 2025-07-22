@@ -41,7 +41,6 @@ To track and analyze public complaints submitted through NYC’s 311 service in 
 ## 📈 KPIs
 
 - Total Complaints
-- % Resolved within SLA (48 hours)
 - Average Resolution Time (hours)
 - Top Complaint Types
 - Status Distribution (Open, Closed, etc.)
